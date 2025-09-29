@@ -39,3 +39,11 @@ Casos de prueba
 
     Prices = [20000, 22000, 21000],
     Total = 63000,
+    Limit = 63000.
+
+
+IDES utilizados
+
+1. Editor de texto: Visual Studio Code
+2. Interprete: SWI-Prolog
+
